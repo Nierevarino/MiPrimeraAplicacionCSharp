@@ -12,3 +12,4 @@ C:\Users\admin\Documents\Juan David Bermudez C\MiPrimeraAplicacionCSharp\Program
 C:\Users\admin\Documents\Juan David Bermudez C\MiPrimeraAplicacionCSharp\Program\obj\Debug\net8.0\Program.pdb
 C:\Users\admin\Documents\Juan David Bermudez C\MiPrimeraAplicacionCSharp\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Users\admin\Documents\Juan David Bermudez C\MiPrimeraAplicacionCSharp\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\admin\Documents\Juan David Bermudez C\MiPrimeraAplicacionCSharp\Program\obj\Debug\net8.0\Program.sourcelink.json
